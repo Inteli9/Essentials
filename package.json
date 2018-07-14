@@ -1,0 +1,8 @@
+{
+  "name": "minecloud",
+  "version": "0.1",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0"
+  }
+}
